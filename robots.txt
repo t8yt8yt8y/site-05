@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://modern-architecture-studio.netlify.app/sitemap.xml
+
+
+
